@@ -18,7 +18,7 @@ start_app.bat
 ```bash
 start_app.sh
 ```
-
+## Instruction
 ![image](https://github.com/xyn-abc/LCSOD-tool/blob/main/LCSOD%20tool%20guidance.gif)
 
 ### Using the Interface
