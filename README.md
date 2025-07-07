@@ -8,18 +8,15 @@ A Streamlit-based web application for computer vision object detection using sta
 - **Export Functionality**: Save detection results and visualizations
 
 ## Installation
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-2. Or use the provided launcher scripts:
+Use the provided launcher scripts:
+
 **Windows:**
 ```bash
 start_app.bat
 ```
 **Linux/Mac:**
 ```bash
-./start_app.sh
+start_app.sh
 ```
 
 ### Using the Interface
