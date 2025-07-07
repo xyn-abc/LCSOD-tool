@@ -19,6 +19,8 @@ start_app.bat
 start_app.sh
 ```
 
+![image]([picture or gif url)](https://github.com/xyn-abc/LCSOD-tool/blob/main/LCSOD%20tool%20guidance.gif)
+
 ### Using the Interface
 1. **Navigate to Object Detection**: Select the "Object Detection" page from the sidebar
 2. **Upload Image**: Use the file uploader to select an image (JPG, PNG, BMP, TIFF)
