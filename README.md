@@ -62,4 +62,6 @@ start_app.sh
 ## License
 This project is licensed under the MIT License. See LICENSE file for details.
 
-
+## Achknowledgements
+https://github.com/CAMMA-public/Endoscapes
+https://github.com/xiuqhou/Relation-DETR
